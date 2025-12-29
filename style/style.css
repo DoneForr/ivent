@@ -41,7 +41,7 @@ h1 {
 .rules {
   margin-top: 33px;
   width: 29rem;
-  height: 54rem;
+  height: 100%;
   border: 3px solid #dbdbdb;
   border-radius: 15px;
   display: block;
