@@ -109,6 +109,7 @@ small {
 }
 
 .map {
+  box-sizing: border-box;
   margin-top: 10px;
   display: flex;
   flex-direction: row;
