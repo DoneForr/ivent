@@ -73,6 +73,10 @@ h1 {
   margin: 0 auto;
 }
 
+.marked {
+  background: #9e9e9e;
+}
+
 label {
   display: block;
   width: 5.7rem;
@@ -82,10 +86,7 @@ label {
   background: #9e9e9e;
   input {
     display: none;
-    &:checked + .mark {
-      background: transparent;
-      color: #292929;
-    }
+    
   }
 
   .mark {
@@ -102,10 +103,17 @@ label {
   }
 }
 
+
 small {
   display: block;
   padding: 0.8em;
   text-align: center;
+}
+
+.clip {
+  text-decoration: none;
+  color: #5bff7e;
+  
 }
 
 .map {
