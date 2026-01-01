@@ -145,6 +145,10 @@ small {
   text-align: center;
 }
 
+.kletka__karty_done {
+  color:#5bff7e;
+}
+
 .kletka__karty {
   padding: 3px;
   width: 130px;
